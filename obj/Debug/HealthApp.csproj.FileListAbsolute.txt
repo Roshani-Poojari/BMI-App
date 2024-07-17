@@ -1,0 +1,7 @@
+C:\Users\roshani.poojari\Desktop\Training\HealthApp\bin\Debug\HealthApp.exe.config
+C:\Users\roshani.poojari\Desktop\Training\HealthApp\bin\Debug\HealthApp.exe
+C:\Users\roshani.poojari\Desktop\Training\HealthApp\bin\Debug\HealthApp.pdb
+C:\Users\roshani.poojari\Desktop\Training\HealthApp\obj\Debug\HealthApp.csproj.AssemblyReference.cache
+C:\Users\roshani.poojari\Desktop\Training\HealthApp\obj\Debug\HealthApp.csproj.CoreCompileInputs.cache
+C:\Users\roshani.poojari\Desktop\Training\HealthApp\obj\Debug\HealthApp.exe
+C:\Users\roshani.poojari\Desktop\Training\HealthApp\obj\Debug\HealthApp.pdb
